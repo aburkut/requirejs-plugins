@@ -1,0 +1,9 @@
+{
+  "name": "requirejs-plugins",
+  "version": "0.0.0",
+  "homepage": "https://github.com/aburkut/requirejs-plugins",
+  "authors": [
+    "Alexander Burkut <a.burkut90@gmail.com>"
+  ],
+  "license": "MIT"
+}
